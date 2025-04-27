@@ -1,0 +1,112 @@
+RouteKey,OriginKey,DestinationKey,RouteName
+1,1,1,Đắk Lắk → Hồ Chí Minh
+2,2,1,Thừa Thiên Huế → Hồ Chí Minh
+3,3,1,Hà Nội → Hồ Chí Minh
+4,3,2,Hà Nội → Khánh Hòa
+5,3,3,Hà Nội → Kiên Giang
+6,3,4,Hà Nội → Phú Yên
+7,3,5,Hà Nội → Gia Lai
+8,3,6,Hà Nội → Đà Nẵng
+9,4,7,Hồ Chí Minh → Đắk Lắk
+10,4,8,Hồ Chí Minh → Thừa Thiên Huế
+11,4,9,Hồ Chí Minh → Hà Nội
+12,4,2,Hồ Chí Minh → Khánh Hòa
+13,4,3,Hồ Chí Minh → Kiên Giang
+14,4,5,Hồ Chí Minh → Gia Lai
+15,4,10,Hồ Chí Minh → Bình Định
+16,4,11,Hồ Chí Minh → Quảng Nam
+17,4,12,Hồ Chí Minh → Thanh Hóa
+18,4,13,Hồ Chí Minh → Nghệ An
+19,4,14,Hồ Chí Minh → Lâm Đồng
+20,4,6,Hồ Chí Minh → Đà Nẵng
+21,5,9,Khánh Hòa → Hà Nội
+22,5,1,Khánh Hòa → Hồ Chí Minh
+23,6,1,Kiên Giang → Hồ Chí Minh
+24,7,9,Gia Lai → Hà Nội
+25,7,1,Gia Lai → Hồ Chí Minh
+26,8,9,Bình Định → Hà Nội
+27,8,1,Bình Định → Hồ Chí Minh
+28,9,1,Thanh Hóa → Hồ Chí Minh
+29,10,1,Nghệ An → Hồ Chí Minh
+30,11,15,Lâm Đồng → Cần Thơ
+31,11,8,Lâm Đồng → Thừa Thiên Huế
+32,11,1,Lâm Đồng → Hồ Chí Minh
+33,11,6,Lâm Đồng → Đà Nẵng
+34,12,9,Đà Nẵng → Hà Nội
+35,12,1,Đà Nẵng → Hồ Chí Minh
+36,13,1,Hải Phòng → Hồ Chí Minh
+37,14,1,Phú Yên → Hồ Chí Minh
+38,15,1,Quảng Nam → Hồ Chí Minh
+39,6,9,Kiên Giang → Hà Nội
+40,11,9,Lâm Đồng → Hà Nội
+41,1,9,Đắk Lắk → Hà Nội
+42,3,14,Hà Nội → Lâm Đồng
+43,12,14,Đà Nẵng → Lâm Đồng
+44,3,15,Hà Nội → Cần Thơ
+45,4,16,Hồ Chí Minh → Quảng Bình
+46,3,8,Hà Nội → Thừa Thiên Huế
+47,4,17,Hồ Chí Minh → Quảng Ninh
+48,5,6,Khánh Hòa → Đà Nẵng
+49,16,6,Cần Thơ → Đà Nẵng
+50,4,18,Hồ Chí Minh → Hải Phòng
+51,12,15,Đà Nẵng → Cần Thơ
+52,1,18,Đắk Lắk → Hải Phòng
+53,16,12,Cần Thơ → Thanh Hóa
+54,3,7,Hà Nội → Đắk Lắk
+55,3,10,Hà Nội → Bình Định
+56,13,7,Hải Phòng → Đắk Lắk
+57,4,4,Hồ Chí Minh → Phú Yên
+58,12,7,Đà Nẵng → Đắk Lắk
+59,5,18,Khánh Hòa → Hải Phòng
+60,17,19,Bà Rịa → Vũng Tàu
+61,3,13,Hà Nội → Nghệ An
+62,4,20,Hồ Chí Minh → Bà Rịa
+63,18,9,Quảng Bình → Hà Nội
+64,13,6,Hải Phòng → Đà Nẵng
+65,1,6,Đắk Lắk → Đà Nẵng
+66,16,14,Cần Thơ → Lâm Đồng
+67,2,9,Thừa Thiên Huế → Hà Nội
+68,3,20,Hà Nội → Bà Rịa
+69,6,15,Kiên Giang → Cần Thơ
+70,13,2,Hải Phòng → Khánh Hòa
+71,13,14,Hải Phòng → Lâm Đồng
+72,14,9,Phú Yên → Hà Nội
+73,1,13,Đắk Lắk → Nghệ An
+74,5,13,Khánh Hòa → Nghệ An
+75,6,2,Kiên Giang → Khánh Hòa
+76,9,2,Thanh Hóa → Khánh Hòa
+77,6,6,Kiên Giang → Đà Nẵng
+78,12,2,Đà Nẵng → Khánh Hòa
+79,12,3,Đà Nẵng → Kiên Giang
+80,10,7,Nghệ An → Đắk Lắk
+81,10,2,Nghệ An → Khánh Hòa
+82,18,1,Quảng Bình → Hồ Chí Minh
+83,19,1,Điện Biên → Hồ Chí Minh
+84,16,13,Cần Thơ → Nghệ An
+85,20,1,Quảng Ninh → Hồ Chí Minh
+86,16,9,Cần Thơ → Hà Nội
+87,7,18,Gia Lai → Hải Phòng
+88,10,9,Nghệ An → Hà Nội
+89,12,18,Đà Nẵng → Hải Phòng
+90,12,13,Đà Nẵng → Nghệ An
+91,13,15,Hải Phòng → Cần Thơ
+92,10,14,Nghệ An → Lâm Đồng
+93,11,13,Lâm Đồng → Nghệ An
+94,10,6,Nghệ An → Đà Nẵng
+95,5,3,Khánh Hòa → Kiên Giang
+96,2,3,Thừa Thiên Huế → Kiên Giang
+97,11,18,Lâm Đồng → Hải Phòng
+98,16,3,Cần Thơ → Kiên Giang
+99,11,3,Lâm Đồng → Kiên Giang
+100,21,1,Cà Mau → Hồ Chí Minh
+101,1,12,Đắk Lắk → Thanh Hóa
+102,4,21,Hồ Chí Minh → Cà Mau
+103,9,7,Thanh Hóa → Đắk Lắk
+104,16,18,Cần Thơ → Hải Phòng
+105,13,3,Hải Phòng → Kiên Giang
+106,2,14,Thừa Thiên Huế → Lâm Đồng
+107,3,16,Hà Nội → Quảng Bình
+108,10,15,Nghệ An → Cần Thơ
+109,8,18,Bình Định → Hải Phòng
+110,3,11,Hà Nội → Quảng Nam
+111,18,20,Quảng Bình → Bà Rịa
